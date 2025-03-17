@@ -1,0 +1,501 @@
+Restaurant_id,Restaurant_name,city,Opening_hours,Restaurant_reviews
+1,Ravel-Kara,Mumbai,10:00 AM - 11:00 PM,3.4
+2,Sha-Hegde,Pune,10:00 AM - 11:00 PM,2.9
+3,Tandon PLC,Hyderabad,10:00 AM - 11:00 PM,4.7
+4,Ravi PLC,Delhi,10:00 AM - 11:00 PM,4.1
+5,Bahl-Kant,Chennai,10:00 AM - 11:00 PM,4.8
+6,"Loke, Sule and Jha",Mumbai,10:00 AM - 11:00 PM,4.4
+7,Savant-Rao,Chennai,10:00 AM - 11:00 PM,2.6
+8,"Deshpande, Bahri and Subramanian",Pune,10:00 AM - 11:00 PM,3.0
+9,Jha-Dugal,Mumbai,10:00 AM - 11:00 PM,4.3
+10,"Rau, Edwin and Sandal",Bangalore,10:00 AM - 11:00 PM,3.7
+11,"Kumer, Wason and Basu",Chennai,10:00 AM - 11:00 PM,2.5
+12,Goel PLC,Mumbai,10:00 AM - 11:00 PM,4.5
+13,Lata Group,Ahmedabad,10:00 AM - 11:00 PM,4.1
+14,"Saini, Kalita and Chaudhuri",Jaipur,10:00 AM - 11:00 PM,3.7
+15,"Bhatt, Bumb and Kade",Mumbai,10:00 AM - 11:00 PM,3.7
+16,Sathe-Dani,Ahmedabad,10:00 AM - 11:00 PM,4.1
+17,"Dube, Kala and Dara",Jaipur,10:00 AM - 11:00 PM,4.9
+18,"Anne, Barad and Chakraborty",Hyderabad,10:00 AM - 11:00 PM,3.9
+19,Sehgal Group,Hyderabad,10:00 AM - 11:00 PM,2.6
+20,Hans Ltd,Jaipur,10:00 AM - 11:00 PM,3.8
+21,"De, Dass and Toor",Bangalore,10:00 AM - 11:00 PM,4.3
+22,Cherian-Sarraf,Jaipur,10:00 AM - 11:00 PM,4.0
+23,"Gera, Vasa and Soman",Jaipur,10:00 AM - 11:00 PM,4.4
+24,"Master, Datta and Jayaraman",Jaipur,10:00 AM - 11:00 PM,2.7
+25,Sanghvi Group,Surat,10:00 AM - 11:00 PM,4.3
+26,"Gaba, Hayer and Dey",Kolkata,10:00 AM - 11:00 PM,4.4
+27,"Ratti, Keer and Dugar",Kolkata,10:00 AM - 11:00 PM,4.2
+28,Apte-Jayaraman,Pune,10:00 AM - 11:00 PM,4.8
+29,Shan Inc,Bangalore,10:00 AM - 11:00 PM,4.5
+30,Jha-Buch,Pune,10:00 AM - 11:00 PM,3.1
+31,Sethi and Sons,Hyderabad,10:00 AM - 11:00 PM,2.5
+32,"Comar, Raju and Sane",Chennai,10:00 AM - 11:00 PM,3.6
+33,Varma Inc,Jaipur,10:00 AM - 11:00 PM,4.0
+34,Rajagopal-Reddy,Bangalore,10:00 AM - 11:00 PM,2.6
+35,"Shanker, Bhakta and Goswami",Jaipur,10:00 AM - 11:00 PM,4.6
+36,Kala Group,Bangalore,10:00 AM - 11:00 PM,3.4
+37,Khatri-Dutt,Surat,10:00 AM - 11:00 PM,3.2
+38,Kalla Group,Mumbai,10:00 AM - 11:00 PM,4.6
+39,Sen-Balay,Mumbai,10:00 AM - 11:00 PM,2.6
+40,"Dhar, Bassi and Toor",Hyderabad,10:00 AM - 11:00 PM,4.8
+41,Keer-Dhar,Pune,10:00 AM - 11:00 PM,4.1
+42,Sodhi-Sankaran,Pune,10:00 AM - 11:00 PM,4.1
+43,Dar Inc,Bangalore,10:00 AM - 11:00 PM,2.6
+44,Choudhury-Tandon,Ahmedabad,10:00 AM - 11:00 PM,4.4
+45,"Sood, Dugal and Chad",Delhi,10:00 AM - 11:00 PM,3.0
+46,Ahluwalia-Reddy,Kolkata,10:00 AM - 11:00 PM,5.0
+47,Sathe LLC,Jaipur,10:00 AM - 11:00 PM,3.4
+48,Kaul and Sons,Pune,10:00 AM - 11:00 PM,4.8
+49,Wagle Group,Surat,10:00 AM - 11:00 PM,4.7
+50,Kulkarni-Setty,Pune,10:00 AM - 11:00 PM,2.6
+51,"Dey, Butala and Dhingra",Ahmedabad,10:00 AM - 11:00 PM,4.5
+52,Bala LLC,Surat,10:00 AM - 11:00 PM,4.4
+53,"Manda, Kari and Iyengar",Hyderabad,10:00 AM - 11:00 PM,2.6
+54,"Majumdar, Sani and Barad",Mumbai,10:00 AM - 11:00 PM,2.9
+55,Bawa PLC,Pune,10:00 AM - 11:00 PM,3.2
+56,Kaul Inc,Delhi,10:00 AM - 11:00 PM,3.8
+57,Dutta and Sons,Pune,10:00 AM - 11:00 PM,3.4
+58,Wagle and Sons,Delhi,10:00 AM - 11:00 PM,4.4
+59,Goel-Bail,Hyderabad,10:00 AM - 11:00 PM,4.1
+60,Jha-Ram,Surat,10:00 AM - 11:00 PM,2.6
+61,Johal-Shere,Mumbai,10:00 AM - 11:00 PM,2.9
+62,"Chauhan, Varughese and Sethi",Surat,10:00 AM - 11:00 PM,4.4
+63,Raval LLC,Mumbai,10:00 AM - 11:00 PM,4.4
+64,Rama-Dey,Hyderabad,10:00 AM - 11:00 PM,3.0
+65,Chaudry-Kala,Mumbai,10:00 AM - 11:00 PM,4.4
+66,Sood-Varma,Surat,10:00 AM - 11:00 PM,4.4
+67,Date Inc,Ahmedabad,10:00 AM - 11:00 PM,4.3
+68,Boase Group,Pune,10:00 AM - 11:00 PM,3.2
+69,"Swaminathan, Korpal and Bumb",Chennai,10:00 AM - 11:00 PM,5.0
+70,Shere-Lanka,Pune,10:00 AM - 11:00 PM,3.4
+71,"Sarkar, Kale and Manne",Mumbai,10:00 AM - 11:00 PM,4.1
+72,"De, Deshmukh and Yadav",Pune,10:00 AM - 11:00 PM,2.9
+73,Babu-Chaudhary,Pune,10:00 AM - 11:00 PM,4.7
+74,De Ltd,Hyderabad,10:00 AM - 11:00 PM,3.0
+75,"Dugar, Majumdar and Bath",Surat,10:00 AM - 11:00 PM,3.8
+76,Mann-Gara,Kolkata,10:00 AM - 11:00 PM,4.9
+77,Mallick LLC,Chennai,10:00 AM - 11:00 PM,3.3
+78,"Thaker, Bobal and Dash",Chennai,10:00 AM - 11:00 PM,2.5
+79,"Rama, Bawa and Bail",Bangalore,10:00 AM - 11:00 PM,3.2
+80,"Kaur, Korpal and Chana",Pune,10:00 AM - 11:00 PM,2.8
+81,Mani PLC,Pune,10:00 AM - 11:00 PM,4.2
+82,"Basak, Jaggi and De",Bangalore,10:00 AM - 11:00 PM,3.5
+83,Bera-Sane,Hyderabad,10:00 AM - 11:00 PM,2.9
+84,Devi-Solanki,Delhi,10:00 AM - 11:00 PM,3.3
+85,Kade-Mann,Jaipur,10:00 AM - 11:00 PM,3.4
+86,Karan Ltd,Jaipur,10:00 AM - 11:00 PM,2.8
+87,Sarraf Group,Chennai,10:00 AM - 11:00 PM,4.9
+88,"Raja, Issac and Manda",Chennai,10:00 AM - 11:00 PM,4.5
+89,"Manne, Sachdev and Sachdeva",Mumbai,10:00 AM - 11:00 PM,3.4
+90,"Ghosh, Bedi and Ravel",Jaipur,10:00 AM - 11:00 PM,2.8
+91,Wason-Khosla,Surat,10:00 AM - 11:00 PM,3.1
+92,"Chand, Bal and Majumdar",Pune,10:00 AM - 11:00 PM,3.9
+93,Mani Ltd,Kolkata,10:00 AM - 11:00 PM,3.8
+94,Ghosh and Sons,Delhi,10:00 AM - 11:00 PM,3.9
+95,Kota-Datta,Jaipur,10:00 AM - 11:00 PM,3.8
+96,Kapoor-Sen,Surat,10:00 AM - 11:00 PM,4.1
+97,Bala-Suri,Mumbai,10:00 AM - 11:00 PM,4.3
+98,"De, Dar and Bhatia",Jaipur,10:00 AM - 11:00 PM,3.9
+99,Subramanian-Das,Chennai,10:00 AM - 11:00 PM,3.8
+100,Kamdar and Sons,Jaipur,10:00 AM - 11:00 PM,3.3
+101,Lanka-Basu,Surat,10:00 AM - 11:00 PM,4.9
+102,"Tak, Sundaram and Goswami",Delhi,10:00 AM - 11:00 PM,3.6
+103,Seshadri and Sons,Chennai,10:00 AM - 11:00 PM,4.4
+104,Sandal LLC,Ahmedabad,10:00 AM - 11:00 PM,3.8
+105,"Chaudry, Bhardwaj and Singhal",Surat,10:00 AM - 11:00 PM,4.0
+106,Bhasin-Edwin,Pune,10:00 AM - 11:00 PM,4.2
+107,Vohra LLC,Ahmedabad,10:00 AM - 11:00 PM,4.7
+108,"Krish, Thaman and Bhattacharyya",Kolkata,10:00 AM - 11:00 PM,3.7
+109,Kade PLC,Delhi,10:00 AM - 11:00 PM,3.5
+110,Srinivasan Ltd,Jaipur,10:00 AM - 11:00 PM,3.4
+111,Keer Inc,Delhi,10:00 AM - 11:00 PM,4.7
+112,"Bose, Suri and Shankar",Bangalore,10:00 AM - 11:00 PM,4.4
+113,Sood-Barman,Delhi,10:00 AM - 11:00 PM,2.9
+114,"Rama, Dora and Joshi",Pune,10:00 AM - 11:00 PM,3.1
+115,Kota-Yogi,Ahmedabad,10:00 AM - 11:00 PM,3.5
+116,"Gera, Kant and Chaudhry",Delhi,10:00 AM - 11:00 PM,4.9
+117,"Arora, Sarin and Iyengar",Kolkata,10:00 AM - 11:00 PM,2.6
+118,"Lalla, Vaidya and Dyal",Ahmedabad,10:00 AM - 11:00 PM,2.9
+119,Basu-Rana,Chennai,10:00 AM - 11:00 PM,4.3
+120,Taneja Group,Pune,10:00 AM - 11:00 PM,4.7
+121,"Kale, Karnik and Zacharia",Delhi,10:00 AM - 11:00 PM,4.0
+122,Warrior-Bajwa,Surat,10:00 AM - 11:00 PM,4.7
+123,"Date, Rau and Sharaf",Kolkata,10:00 AM - 11:00 PM,2.8
+124,"Seth, Dani and Babu",Surat,10:00 AM - 11:00 PM,4.6
+125,Bumb-Kothari,Ahmedabad,10:00 AM - 11:00 PM,4.3
+126,Bhavsar LLC,Ahmedabad,10:00 AM - 11:00 PM,3.1
+127,"Karan, Taneja and Sastry",Jaipur,10:00 AM - 11:00 PM,4.7
+128,Din-Chowdhury,Pune,10:00 AM - 11:00 PM,4.0
+129,"Golla, Kumar and Dani",Ahmedabad,10:00 AM - 11:00 PM,3.7
+130,"Srivastava, Walia and Chhabra",Chennai,10:00 AM - 11:00 PM,5.0
+131,Vohra-Wason,Mumbai,10:00 AM - 11:00 PM,2.7
+132,Karpe LLC,Pune,10:00 AM - 11:00 PM,4.4
+133,Dyal and Sons,Hyderabad,10:00 AM - 11:00 PM,2.7
+134,"Yadav, Raval and Kibe",Chennai,10:00 AM - 11:00 PM,3.2
+135,"Madan, Lal and Ravel",Hyderabad,10:00 AM - 11:00 PM,3.7
+136,Butala Group,Kolkata,10:00 AM - 11:00 PM,4.8
+137,"Sachdeva, Lad and Chahal",Bangalore,10:00 AM - 11:00 PM,3.2
+138,Dutta-Kapadia,Surat,10:00 AM - 11:00 PM,5.0
+139,"Bains, Iyer and Vig",Pune,10:00 AM - 11:00 PM,4.8
+140,Kari Ltd,Kolkata,10:00 AM - 11:00 PM,4.7
+141,"Vyas, Chaudry and Sule",Jaipur,10:00 AM - 11:00 PM,3.1
+142,Sood-Talwar,Kolkata,10:00 AM - 11:00 PM,4.2
+143,Devi-Brahmbhatt,Hyderabad,10:00 AM - 11:00 PM,2.9
+144,Gala Inc,Bangalore,10:00 AM - 11:00 PM,4.1
+145,Brahmbhatt-Singhal,Delhi,10:00 AM - 11:00 PM,3.1
+146,"Dhawan, Mahajan and Chander",Mumbai,10:00 AM - 11:00 PM,4.6
+147,"Balasubramanian, Gala and Hari",Ahmedabad,10:00 AM - 11:00 PM,4.0
+148,"Dubey, Chanda and Dube",Bangalore,10:00 AM - 11:00 PM,3.1
+149,Singh-Dar,Ahmedabad,10:00 AM - 11:00 PM,2.8
+150,"Tata, Bhalla and Thaker",Pune,10:00 AM - 11:00 PM,3.8
+151,"Sur, Bahl and Brar",Chennai,10:00 AM - 11:00 PM,4.7
+152,Rattan-Kar,Hyderabad,10:00 AM - 11:00 PM,3.0
+153,Goyal-Joshi,Kolkata,10:00 AM - 11:00 PM,4.3
+154,"Konda, Kamdar and Shankar",Mumbai,10:00 AM - 11:00 PM,4.0
+155,Krishnamurthy-Butala,Kolkata,10:00 AM - 11:00 PM,3.9
+156,"Kashyap, Dyal and Goyal",Kolkata,10:00 AM - 11:00 PM,3.0
+157,Dugar-Garg,Ahmedabad,10:00 AM - 11:00 PM,4.2
+158,Bir LLC,Surat,10:00 AM - 11:00 PM,4.0
+159,Varughese-Kapoor,Surat,10:00 AM - 11:00 PM,4.1
+160,Khare LLC,Bangalore,10:00 AM - 11:00 PM,3.6
+161,Sarkar LLC,Mumbai,10:00 AM - 11:00 PM,2.9
+162,Edwin-Soman,Kolkata,10:00 AM - 11:00 PM,2.6
+163,Shukla Group,Bangalore,10:00 AM - 11:00 PM,4.9
+164,"Datta, Bobal and Shere",Hyderabad,10:00 AM - 11:00 PM,3.8
+165,Vala-Tandon,Chennai,10:00 AM - 11:00 PM,4.4
+166,Sarna PLC,Bangalore,10:00 AM - 11:00 PM,4.2
+167,"Dara, Thakur and Kala",Mumbai,10:00 AM - 11:00 PM,4.6
+168,"Mahajan, Mand and Tripathi",Kolkata,10:00 AM - 11:00 PM,3.0
+169,"Sethi, Swaminathan and Chaudhuri",Pune,10:00 AM - 11:00 PM,3.3
+170,"Thaker, Datta and Upadhyay",Chennai,10:00 AM - 11:00 PM,4.1
+171,Dara-Comar,Ahmedabad,10:00 AM - 11:00 PM,3.0
+172,"Sahota, Chada and Chand",Jaipur,10:00 AM - 11:00 PM,3.8
+173,Sane PLC,Delhi,10:00 AM - 11:00 PM,4.2
+174,"Batra, Thaker and Dhawan",Ahmedabad,10:00 AM - 11:00 PM,2.8
+175,"Basu, Luthra and Sharaf",Pune,10:00 AM - 11:00 PM,4.5
+176,"Lanka, Mangal and Khanna",Mumbai,10:00 AM - 11:00 PM,3.0
+177,Batta Inc,Pune,10:00 AM - 11:00 PM,3.6
+178,"Borde, Viswanathan and Bhasin",Kolkata,10:00 AM - 11:00 PM,3.3
+179,Dara Inc,Hyderabad,10:00 AM - 11:00 PM,4.0
+180,Solanki-Gour,Bangalore,10:00 AM - 11:00 PM,2.9
+181,Mand-Chowdhury,Kolkata,10:00 AM - 11:00 PM,2.9
+182,"Baria, Garg and Basu",Bangalore,10:00 AM - 11:00 PM,2.9
+183,Mane-Kannan,Ahmedabad,10:00 AM - 11:00 PM,3.2
+184,"Chhabra, Bhatt and Walla",Chennai,10:00 AM - 11:00 PM,2.9
+185,Kunda-Jha,Surat,10:00 AM - 11:00 PM,3.1
+186,"Aggarwal, Vora and Kashyap",Pune,10:00 AM - 11:00 PM,3.1
+187,"Seshadri, Bir and Dube",Ahmedabad,10:00 AM - 11:00 PM,4.6
+188,"Sarna, Sani and Vyas",Surat,10:00 AM - 11:00 PM,3.2
+189,Sinha LLC,Jaipur,10:00 AM - 11:00 PM,3.4
+190,Choudhry-Yohannan,Bangalore,10:00 AM - 11:00 PM,4.6
+191,Kade LLC,Jaipur,10:00 AM - 11:00 PM,4.2
+192,Sama Group,Mumbai,10:00 AM - 11:00 PM,4.1
+193,Sani LLC,Jaipur,10:00 AM - 11:00 PM,2.9
+194,Dixit Ltd,Ahmedabad,10:00 AM - 11:00 PM,2.8
+195,"Garde, Mallick and Salvi",Hyderabad,10:00 AM - 11:00 PM,3.2
+196,Jayaraman-Deol,Pune,10:00 AM - 11:00 PM,2.9
+197,Bansal-Sankaran,Pune,10:00 AM - 11:00 PM,2.9
+198,"Vora, Raj and Salvi",Bangalore,10:00 AM - 11:00 PM,4.2
+199,"Jayaraman, Bora and Chopra",Pune,10:00 AM - 11:00 PM,4.0
+200,Basak Inc,Chennai,10:00 AM - 11:00 PM,2.9
+201,Gola PLC,Surat,10:00 AM - 11:00 PM,3.5
+202,"Ghosh, Chaudhari and Sant",Pune,10:00 AM - 11:00 PM,2.6
+203,Lanka-D’Alia,Chennai,10:00 AM - 11:00 PM,4.3
+204,Brar LLC,Chennai,10:00 AM - 11:00 PM,2.8
+205,"Choudhury, Goda and Dada",Bangalore,10:00 AM - 11:00 PM,4.9
+206,Kapoor Group,Pune,10:00 AM - 11:00 PM,4.6
+207,Saha PLC,Ahmedabad,10:00 AM - 11:00 PM,4.2
+208,D’Alia-Brar,Surat,10:00 AM - 11:00 PM,4.5
+209,"Doshi, Amble and Vala",Ahmedabad,10:00 AM - 11:00 PM,3.6
+210,Som PLC,Delhi,10:00 AM - 11:00 PM,4.4
+211,"Krishna, Sethi and Contractor",Kolkata,10:00 AM - 11:00 PM,4.5
+212,Chawla-Ratta,Jaipur,10:00 AM - 11:00 PM,4.8
+213,Ghose PLC,Hyderabad,10:00 AM - 11:00 PM,3.3
+214,Swaminathan-Balan,Bangalore,10:00 AM - 11:00 PM,3.1
+215,"Bhat, Kala and Ghosh",Delhi,10:00 AM - 11:00 PM,4.8
+216,Dutt-Dasgupta,Delhi,10:00 AM - 11:00 PM,2.7
+217,Sani LLC,Hyderabad,10:00 AM - 11:00 PM,3.2
+218,"Chatterjee, Kumer and Setty",Hyderabad,10:00 AM - 11:00 PM,3.8
+219,"Sengupta, Gour and Lata",Ahmedabad,10:00 AM - 11:00 PM,2.9
+220,Dada Group,Pune,10:00 AM - 11:00 PM,4.2
+221,Kumer PLC,Pune,10:00 AM - 11:00 PM,5.0
+222,Chacko-Tata,Jaipur,10:00 AM - 11:00 PM,3.4
+223,Wali Group,Bangalore,10:00 AM - 11:00 PM,2.5
+224,Basu-Andra,Bangalore,10:00 AM - 11:00 PM,4.2
+225,"Magar, Magar and Shroff",Bangalore,10:00 AM - 11:00 PM,4.4
+226,"Sodhi, Sodhi and Buch",Jaipur,10:00 AM - 11:00 PM,4.6
+227,Lalla-Kannan,Chennai,10:00 AM - 11:00 PM,4.3
+228,Ravi PLC,Delhi,10:00 AM - 11:00 PM,4.7
+229,"Varghese, Gour and Sarma",Hyderabad,10:00 AM - 11:00 PM,4.0
+230,Date-Khare,Mumbai,10:00 AM - 11:00 PM,3.8
+231,Sarraf-Bhakta,Surat,10:00 AM - 11:00 PM,3.8
+232,Borde-Wadhwa,Jaipur,10:00 AM - 11:00 PM,4.2
+233,Handa Ltd,Jaipur,10:00 AM - 11:00 PM,4.8
+234,"Wadhwa, Dhar and Rajan",Ahmedabad,10:00 AM - 11:00 PM,3.1
+235,Buch-Ramesh,Chennai,10:00 AM - 11:00 PM,3.3
+236,"Chandran, Kari and Vasa",Surat,10:00 AM - 11:00 PM,4.8
+237,Mand-Bhatia,Delhi,10:00 AM - 11:00 PM,3.2
+238,"Balan, Verma and Atwal",Chennai,10:00 AM - 11:00 PM,3.8
+239,"Dhillon, Choudhury and Rama",Mumbai,10:00 AM - 11:00 PM,3.7
+240,Cherian-Raj,Kolkata,10:00 AM - 11:00 PM,4.9
+241,Chauhan-Baral,Jaipur,10:00 AM - 11:00 PM,4.4
+242,"Raval, Borah and Krish",Delhi,10:00 AM - 11:00 PM,4.9
+243,Mall PLC,Pune,10:00 AM - 11:00 PM,3.5
+244,Sant LLC,Ahmedabad,10:00 AM - 11:00 PM,2.8
+245,"Chanda, Chakraborty and Sawhney",Chennai,10:00 AM - 11:00 PM,2.5
+246,Viswanathan-Lall,Pune,10:00 AM - 11:00 PM,4.0
+247,Shetty Inc,Chennai,10:00 AM - 11:00 PM,3.6
+248,Char PLC,Kolkata,10:00 AM - 11:00 PM,3.5
+249,"Singhal, Amble and Garde",Hyderabad,10:00 AM - 11:00 PM,4.3
+250,Chad-Mahajan,Pune,10:00 AM - 11:00 PM,2.9
+251,"Date, Bawa and Sahni",Pune,10:00 AM - 11:00 PM,4.1
+252,"Roy, Kapur and Cherian",Delhi,10:00 AM - 11:00 PM,4.2
+253,Mahajan-Ramaswamy,Hyderabad,10:00 AM - 11:00 PM,3.6
+254,"Chaudhry, Bawa and Rao",Kolkata,10:00 AM - 11:00 PM,3.8
+255,"Som, D’Alia and Kade",Delhi,10:00 AM - 11:00 PM,3.9
+256,Sha LLC,Jaipur,10:00 AM - 11:00 PM,3.1
+257,Konda-Toor,Delhi,10:00 AM - 11:00 PM,2.9
+258,Ravi-Sekhon,Hyderabad,10:00 AM - 11:00 PM,4.1
+259,Anne Inc,Pune,10:00 AM - 11:00 PM,3.1
+260,Dayal Group,Kolkata,10:00 AM - 11:00 PM,4.4
+261,"Borde, Ramanathan and Saxena",Kolkata,10:00 AM - 11:00 PM,4.5
+262,Karan Group,Pune,10:00 AM - 11:00 PM,3.7
+263,Sidhu-Desai,Kolkata,10:00 AM - 11:00 PM,4.2
+264,Rajagopal Ltd,Bangalore,10:00 AM - 11:00 PM,3.2
+265,Dara Group,Bangalore,10:00 AM - 11:00 PM,4.4
+266,"Savant, Dara and Balay",Kolkata,10:00 AM - 11:00 PM,4.6
+267,Brahmbhatt and Sons,Delhi,10:00 AM - 11:00 PM,3.6
+268,Dasgupta PLC,Jaipur,10:00 AM - 11:00 PM,3.8
+269,"Sagar, Vala and Dugar",Pune,10:00 AM - 11:00 PM,3.4
+270,"Verma, Gill and Dey",Surat,10:00 AM - 11:00 PM,4.8
+271,Bal LLC,Delhi,10:00 AM - 11:00 PM,3.6
+272,Setty-Krishna,Pune,10:00 AM - 11:00 PM,3.2
+273,Dhillon LLC,Mumbai,10:00 AM - 11:00 PM,4.4
+274,"Vaidya, Chakraborty and Swamy",Chennai,10:00 AM - 11:00 PM,4.8
+275,Lata-Brahmbhatt,Chennai,10:00 AM - 11:00 PM,3.2
+276,"Ramaswamy, Sahota and Sekhon",Kolkata,10:00 AM - 11:00 PM,4.6
+277,Mand PLC,Ahmedabad,10:00 AM - 11:00 PM,4.1
+278,Mandal-Sridhar,Hyderabad,10:00 AM - 11:00 PM,3.2
+279,"Aggarwal, Randhawa and Ben",Ahmedabad,10:00 AM - 11:00 PM,3.9
+280,Barman-Banerjee,Delhi,10:00 AM - 11:00 PM,3.0
+281,Bora-Mall,Delhi,10:00 AM - 11:00 PM,4.9
+282,Srivastava-Choudhry,Bangalore,10:00 AM - 11:00 PM,4.8
+283,Lanka-Goda,Pune,10:00 AM - 11:00 PM,4.2
+284,Jha-Viswanathan,Bangalore,10:00 AM - 11:00 PM,2.9
+285,Kumer LLC,Pune,10:00 AM - 11:00 PM,2.7
+286,Bath-Sehgal,Ahmedabad,10:00 AM - 11:00 PM,3.9
+287,Tiwari-Rana,Jaipur,10:00 AM - 11:00 PM,2.7
+288,Grewal-Baria,Ahmedabad,10:00 AM - 11:00 PM,4.9
+289,Balan-Goda,Bangalore,10:00 AM - 11:00 PM,4.1
+290,Char-Baral,Pune,10:00 AM - 11:00 PM,4.5
+291,Kala-Iyer,Pune,10:00 AM - 11:00 PM,4.6
+292,"Rajan, Dutta and Butala",Pune,10:00 AM - 11:00 PM,2.8
+293,"Sanghvi, Walia and Krishnan",Ahmedabad,10:00 AM - 11:00 PM,4.6
+294,Goswami LLC,Bangalore,10:00 AM - 11:00 PM,3.9
+295,Kakar Group,Jaipur,10:00 AM - 11:00 PM,4.3
+296,Lad Ltd,Bangalore,10:00 AM - 11:00 PM,4.6
+297,Mahajan Ltd,Mumbai,10:00 AM - 11:00 PM,3.5
+298,Bhardwaj-Shanker,Surat,10:00 AM - 11:00 PM,4.8
+299,Dara-Malhotra,Jaipur,10:00 AM - 11:00 PM,3.9
+300,"Bali, Kade and Sawhney",Surat,10:00 AM - 11:00 PM,3.3
+301,Srinivasan-Sarkar,Delhi,10:00 AM - 11:00 PM,4.6
+302,"Kamdar, Setty and Din",Bangalore,10:00 AM - 11:00 PM,4.7
+303,Gill-Bobal,Bangalore,10:00 AM - 11:00 PM,3.7
+304,"Datta, Sane and Dyal",Hyderabad,10:00 AM - 11:00 PM,3.5
+305,"Anne, Gara and Korpal",Mumbai,10:00 AM - 11:00 PM,2.7
+306,"Yohannan, Gola and Varma",Kolkata,10:00 AM - 11:00 PM,2.9
+307,"Chad, Mand and Brar",Delhi,10:00 AM - 11:00 PM,4.3
+308,"Sagar, Kannan and Thaker",Hyderabad,10:00 AM - 11:00 PM,3.1
+309,Ramanathan-Mammen,Mumbai,10:00 AM - 11:00 PM,2.8
+310,"Bhagat, Kapur and Kari",Surat,10:00 AM - 11:00 PM,3.6
+311,Kumar PLC,Mumbai,10:00 AM - 11:00 PM,4.8
+312,Sharma-Dave,Surat,10:00 AM - 11:00 PM,3.7
+313,"Grover, Sodhi and Gokhale",Ahmedabad,10:00 AM - 11:00 PM,4.5
+314,Korpal-Kala,Ahmedabad,10:00 AM - 11:00 PM,4.9
+315,"Ramaswamy, Barad and Kala",Pune,10:00 AM - 11:00 PM,4.2
+316,Viswanathan-Khosla,Jaipur,10:00 AM - 11:00 PM,2.6
+317,Sahota Ltd,Bangalore,10:00 AM - 11:00 PM,4.7
+318,Sridhar LLC,Mumbai,10:00 AM - 11:00 PM,2.6
+319,Krishnan-Lall,Kolkata,10:00 AM - 11:00 PM,3.7
+320,Zachariah Ltd,Mumbai,10:00 AM - 11:00 PM,4.3
+321,"Toor, Andra and Yadav",Jaipur,10:00 AM - 11:00 PM,3.3
+322,Gopal PLC,Pune,10:00 AM - 11:00 PM,4.5
+323,"Savant, Sur and Kamdar",Kolkata,10:00 AM - 11:00 PM,3.2
+324,Bhasin-Doctor,Hyderabad,10:00 AM - 11:00 PM,4.3
+325,Devi Ltd,Bangalore,10:00 AM - 11:00 PM,3.0
+326,Walia-Sabharwal,Kolkata,10:00 AM - 11:00 PM,2.7
+327,Bala and Sons,Delhi,10:00 AM - 11:00 PM,2.5
+328,"Sant, Hegde and Mangat",Delhi,10:00 AM - 11:00 PM,4.2
+329,Bhavsar-Hayer,Hyderabad,10:00 AM - 11:00 PM,4.7
+330,Yogi-Hora,Mumbai,10:00 AM - 11:00 PM,4.4
+331,Dutta and Sons,Jaipur,10:00 AM - 11:00 PM,4.5
+332,"Bhagat, Kamdar and Dani",Chennai,10:00 AM - 11:00 PM,3.0
+333,Aurora-Sama,Jaipur,10:00 AM - 11:00 PM,4.0
+334,Brahmbhatt PLC,Mumbai,10:00 AM - 11:00 PM,4.4
+335,Hora-Maharaj,Surat,10:00 AM - 11:00 PM,4.4
+336,Vig LLC,Hyderabad,10:00 AM - 11:00 PM,4.8
+337,"Loke, Balakrishnan and Wason",Mumbai,10:00 AM - 11:00 PM,2.7
+338,Kamdar-Saran,Ahmedabad,10:00 AM - 11:00 PM,4.7
+339,Roy-Kashyap,Chennai,10:00 AM - 11:00 PM,4.7
+340,Kumer-Basak,Delhi,10:00 AM - 11:00 PM,4.6
+341,Brar LLC,Hyderabad,10:00 AM - 11:00 PM,3.2
+342,Mannan LLC,Delhi,10:00 AM - 11:00 PM,2.8
+343,Borde-Sridhar,Kolkata,10:00 AM - 11:00 PM,3.5
+344,"Dube, Johal and Deol",Mumbai,10:00 AM - 11:00 PM,3.9
+345,Amble-Goda,Bangalore,10:00 AM - 11:00 PM,3.3
+346,Shetty PLC,Kolkata,10:00 AM - 11:00 PM,4.4
+347,Kalla PLC,Ahmedabad,10:00 AM - 11:00 PM,4.4
+348,"Magar, Aurora and Banik",Pune,10:00 AM - 11:00 PM,3.8
+349,"Loyal, Mane and Choudhury",Mumbai,10:00 AM - 11:00 PM,5.0
+350,Wason-Sarraf,Hyderabad,10:00 AM - 11:00 PM,3.0
+351,Barad-Gaba,Ahmedabad,10:00 AM - 11:00 PM,4.1
+352,"Varma, Kalita and Gokhale",Delhi,10:00 AM - 11:00 PM,4.6
+353,"Kadakia, Doshi and Gola",Mumbai,10:00 AM - 11:00 PM,2.7
+354,Bera-Sharma,Jaipur,10:00 AM - 11:00 PM,2.8
+355,Sandhu-Chakraborty,Jaipur,10:00 AM - 11:00 PM,3.7
+356,Buch PLC,Delhi,10:00 AM - 11:00 PM,3.2
+357,Ghose-Devi,Surat,10:00 AM - 11:00 PM,3.6
+358,Anand Inc,Jaipur,10:00 AM - 11:00 PM,2.8
+359,"Subramanian, Suresh and Andra",Surat,10:00 AM - 11:00 PM,3.6
+360,Madan-Jha,Jaipur,10:00 AM - 11:00 PM,4.8
+361,Mahajan LLC,Kolkata,10:00 AM - 11:00 PM,2.6
+362,Kunda PLC,Hyderabad,10:00 AM - 11:00 PM,4.0
+363,Bhagat-Bose,Delhi,10:00 AM - 11:00 PM,3.0
+364,"Gala, Kapadia and Sahni",Kolkata,10:00 AM - 11:00 PM,3.1
+365,Bail Group,Mumbai,10:00 AM - 11:00 PM,3.4
+366,Shukla-Khatri,Surat,10:00 AM - 11:00 PM,4.3
+367,"Keer, Dugar and Manda",Mumbai,10:00 AM - 11:00 PM,4.7
+368,Zachariah PLC,Pune,10:00 AM - 11:00 PM,3.4
+369,"Bassi, Madan and Krishna",Mumbai,10:00 AM - 11:00 PM,3.9
+370,Garde-Garde,Ahmedabad,10:00 AM - 11:00 PM,3.1
+371,"De, Ramesh and Deep",Ahmedabad,10:00 AM - 11:00 PM,3.8
+372,Cherian Group,Ahmedabad,10:00 AM - 11:00 PM,4.0
+373,"Ravel, Edwin and Choudhury",Kolkata,10:00 AM - 11:00 PM,4.8
+374,"Char, Ben and Agate",Surat,10:00 AM - 11:00 PM,3.2
+375,Basu-Shan,Delhi,10:00 AM - 11:00 PM,4.1
+376,"Sahni, Ram and Bains",Chennai,10:00 AM - 11:00 PM,3.9
+377,Samra Ltd,Ahmedabad,10:00 AM - 11:00 PM,3.8
+378,Goyal-Dayal,Mumbai,10:00 AM - 11:00 PM,4.5
+379,Bhandari LLC,Delhi,10:00 AM - 11:00 PM,2.8
+380,Lall-Buch,Kolkata,10:00 AM - 11:00 PM,3.4
+381,Sundaram Group,Surat,10:00 AM - 11:00 PM,3.8
+382,Vala and Sons,Jaipur,10:00 AM - 11:00 PM,4.4
+383,Bala-Loyal,Hyderabad,10:00 AM - 11:00 PM,3.4
+384,Kibe-Rajagopal,Mumbai,10:00 AM - 11:00 PM,4.9
+385,"Dhar, Hayer and Tata",Pune,10:00 AM - 11:00 PM,4.0
+386,Ganesan Ltd,Pune,10:00 AM - 11:00 PM,2.9
+387,"Chopra, Varughese and Solanki",Surat,10:00 AM - 11:00 PM,3.5
+388,"Wali, Deo and Vig",Jaipur,10:00 AM - 11:00 PM,3.3
+389,Loke LLC,Jaipur,10:00 AM - 11:00 PM,3.8
+390,Sankaran-Jaggi,Bangalore,10:00 AM - 11:00 PM,2.7
+391,"Anand, Sawhney and Deol",Mumbai,10:00 AM - 11:00 PM,4.7
+392,"Sen, Hegde and Gera",Surat,10:00 AM - 11:00 PM,3.2
+393,Thakkar and Sons,Hyderabad,10:00 AM - 11:00 PM,3.9
+394,Tara-Mall,Hyderabad,10:00 AM - 11:00 PM,4.2
+395,"Arora, Gaba and Batra",Delhi,10:00 AM - 11:00 PM,4.0
+396,Kara-Sen,Jaipur,10:00 AM - 11:00 PM,4.8
+397,Raval-Madan,Hyderabad,10:00 AM - 11:00 PM,4.4
+398,"Goel, Sundaram and Sagar",Jaipur,10:00 AM - 11:00 PM,3.7
+399,"Sampath, Babu and Varty",Chennai,10:00 AM - 11:00 PM,2.9
+400,Raj-Bumb,Bangalore,10:00 AM - 11:00 PM,4.6
+401,"Chhabra, Bhattacharyya and Bandi",Jaipur,10:00 AM - 11:00 PM,2.8
+402,Sethi-Srinivas,Hyderabad,10:00 AM - 11:00 PM,3.9
+403,Golla-Kalla,Surat,10:00 AM - 11:00 PM,3.4
+404,"Sastry, Gokhale and Bhattacharyya",Chennai,10:00 AM - 11:00 PM,4.3
+405,Solanki Group,Surat,10:00 AM - 11:00 PM,4.6
+406,"Mani, Tata and Dey",Ahmedabad,10:00 AM - 11:00 PM,4.2
+407,Ganguly-Shere,Bangalore,10:00 AM - 11:00 PM,4.4
+408,"Lata, Vig and Gour",Pune,10:00 AM - 11:00 PM,3.5
+409,Mannan and Sons,Delhi,10:00 AM - 11:00 PM,2.9
+410,Dara Group,Ahmedabad,10:00 AM - 11:00 PM,2.8
+411,Bava-Yogi,Chennai,10:00 AM - 11:00 PM,2.8
+412,Madan-Barman,Mumbai,10:00 AM - 11:00 PM,3.4
+413,Kalla-Mall,Kolkata,10:00 AM - 11:00 PM,4.5
+414,"Baria, Agarwal and Sharma",Pune,10:00 AM - 11:00 PM,4.8
+415,"Goda, Wali and Divan",Delhi,10:00 AM - 11:00 PM,3.3
+416,"Gera, Jaggi and Randhawa",Ahmedabad,10:00 AM - 11:00 PM,4.9
+417,"Sandhu, Bhatt and Lad",Bangalore,10:00 AM - 11:00 PM,3.4
+418,"Borah, Choudhry and Korpal",Chennai,10:00 AM - 11:00 PM,4.5
+419,Kapur-Kale,Hyderabad,10:00 AM - 11:00 PM,4.4
+420,"Shetty, Desai and Sheth",Bangalore,10:00 AM - 11:00 PM,2.6
+421,Chakrabarti-Sarma,Jaipur,10:00 AM - 11:00 PM,4.9
+422,Sule Inc,Chennai,10:00 AM - 11:00 PM,2.5
+423,Virk Inc,Pune,10:00 AM - 11:00 PM,4.7
+424,Gokhale-Goyal,Ahmedabad,10:00 AM - 11:00 PM,4.1
+425,Cheema-Soman,Kolkata,10:00 AM - 11:00 PM,2.9
+426,Iyengar-Kota,Kolkata,10:00 AM - 11:00 PM,4.2
+427,Basu-Kade,Jaipur,10:00 AM - 11:00 PM,4.8
+428,"Dayal, Lalla and Sastry",Bangalore,10:00 AM - 11:00 PM,4.6
+429,Mannan-Dass,Chennai,10:00 AM - 11:00 PM,3.9
+430,"Mani, Bhakta and Khatri",Delhi,10:00 AM - 11:00 PM,4.6
+431,Baria-Acharya,Ahmedabad,10:00 AM - 11:00 PM,3.5
+432,Chander-Ben,Hyderabad,10:00 AM - 11:00 PM,2.8
+433,"Sethi, Master and Bava",Ahmedabad,10:00 AM - 11:00 PM,4.7
+434,"Kurian, Kala and Kala",Hyderabad,10:00 AM - 11:00 PM,4.6
+435,Dyal-Bora,Surat,10:00 AM - 11:00 PM,4.8
+436,"Grewal, Badami and Kalla",Surat,10:00 AM - 11:00 PM,4.5
+437,Sachdev-Mani,Hyderabad,10:00 AM - 11:00 PM,2.7
+438,"Sahota, Walla and Raj",Surat,10:00 AM - 11:00 PM,3.2
+439,"Thakkar, Agrawal and Yogi",Pune,10:00 AM - 11:00 PM,4.8
+440,Chana-Chowdhury,Chennai,10:00 AM - 11:00 PM,4.1
+441,Baria Group,Kolkata,10:00 AM - 11:00 PM,3.5
+442,Sodhi Ltd,Chennai,10:00 AM - 11:00 PM,4.6
+443,Chandra-Malhotra,Jaipur,10:00 AM - 11:00 PM,2.7
+444,Chhabra Group,Delhi,10:00 AM - 11:00 PM,4.5
+445,Talwar-Uppal,Ahmedabad,10:00 AM - 11:00 PM,3.9
+446,Vohra Ltd,Jaipur,10:00 AM - 11:00 PM,2.8
+447,"Bhatnagar, Chaudhary and Dua",Surat,10:00 AM - 11:00 PM,5.0
+448,Deep Group,Kolkata,10:00 AM - 11:00 PM,4.2
+449,Varughese-Ravi,Pune,10:00 AM - 11:00 PM,2.8
+450,Gopal LLC,Jaipur,10:00 AM - 11:00 PM,4.7
+451,Tank-Sathe,Surat,10:00 AM - 11:00 PM,4.5
+452,Jain-Dhaliwal,Mumbai,10:00 AM - 11:00 PM,4.1
+453,Madan PLC,Pune,10:00 AM - 11:00 PM,2.6
+454,Amble-Bera,Surat,10:00 AM - 11:00 PM,3.9
+455,Salvi Group,Hyderabad,10:00 AM - 11:00 PM,4.2
+456,Sachdeva-Tiwari,Surat,10:00 AM - 11:00 PM,3.4
+457,"Krishna, Mahajan and Yohannan",Pune,10:00 AM - 11:00 PM,3.6
+458,Kuruvilla-Krishna,Chennai,10:00 AM - 11:00 PM,4.7
+459,"Korpal, Edwin and Baral",Bangalore,10:00 AM - 11:00 PM,2.9
+460,Kashyap-Dewan,Surat,10:00 AM - 11:00 PM,3.5
+461,"Sengupta, Deshpande and Kaur",Mumbai,10:00 AM - 11:00 PM,2.7
+462,"Tandon, Choudhury and Karpe",Bangalore,10:00 AM - 11:00 PM,4.1
+463,Apte-Thaker,Bangalore,10:00 AM - 11:00 PM,2.8
+464,"Bora, Rastogi and Sagar",Chennai,10:00 AM - 11:00 PM,4.2
+465,Chhabra LLC,Pune,10:00 AM - 11:00 PM,4.9
+466,Baria-Yohannan,Pune,10:00 AM - 11:00 PM,3.6
+467,"Rama, Apte and Bhagat",Chennai,10:00 AM - 11:00 PM,2.8
+468,"Virk, Kalla and Jayaraman",Bangalore,10:00 AM - 11:00 PM,3.7
+469,Yohannan-Dugar,Bangalore,10:00 AM - 11:00 PM,3.1
+470,Bobal-Sankaran,Ahmedabad,10:00 AM - 11:00 PM,3.8
+471,"Khatri, D’Alia and Dey",Ahmedabad,10:00 AM - 11:00 PM,3.4
+472,Tak Ltd,Surat,10:00 AM - 11:00 PM,2.5
+473,Bhandari-Swamy,Delhi,10:00 AM - 11:00 PM,4.6
+474,"Khare, Sangha and Kari",Kolkata,10:00 AM - 11:00 PM,4.0
+475,Krishna and Sons,Delhi,10:00 AM - 11:00 PM,4.5
+476,Karpe-Upadhyay,Pune,10:00 AM - 11:00 PM,2.5
+477,"D’Alia, Sabharwal and Iyengar",Delhi,10:00 AM - 11:00 PM,3.7
+478,"Saran, Tak and Korpal",Bangalore,10:00 AM - 11:00 PM,4.2
+479,Chand-Sandhu,Hyderabad,10:00 AM - 11:00 PM,3.6
+480,Subramanian-Bora,Ahmedabad,10:00 AM - 11:00 PM,4.0
+481,"Bhat, Dasgupta and Magar",Mumbai,10:00 AM - 11:00 PM,2.7
+482,Ghose Group,Surat,10:00 AM - 11:00 PM,3.7
+483,Bali Inc,Pune,10:00 AM - 11:00 PM,2.9
+484,"Datta, Balay and Bath",Hyderabad,10:00 AM - 11:00 PM,4.2
+485,Kalla LLC,Mumbai,10:00 AM - 11:00 PM,4.6
+486,Buch PLC,Hyderabad,10:00 AM - 11:00 PM,3.0
+487,Jhaveri LLC,Hyderabad,10:00 AM - 11:00 PM,3.8
+488,Sabharwal Inc,Surat,10:00 AM - 11:00 PM,3.1
+489,Sarna-Mandal,Bangalore,10:00 AM - 11:00 PM,4.4
+490,Mall and Sons,Ahmedabad,10:00 AM - 11:00 PM,3.2
+491,"Bhattacharyya, Ramaswamy and Seth",Ahmedabad,10:00 AM - 11:00 PM,2.8
+492,Rajagopal-Golla,Chennai,10:00 AM - 11:00 PM,4.6
+493,Bajwa LLC,Delhi,10:00 AM - 11:00 PM,4.1
+494,Gopal-Bansal,Pune,10:00 AM - 11:00 PM,2.5
+495,Ratti-Varkey,Delhi,10:00 AM - 11:00 PM,2.7
+496,"Sathe, Goswami and Dhar",Pune,10:00 AM - 11:00 PM,4.0
+497,De PLC,Jaipur,10:00 AM - 11:00 PM,4.9
+498,Khurana and Sons,Bangalore,10:00 AM - 11:00 PM,4.8
+499,"Borah, Dutt and Ranganathan",Surat,10:00 AM - 11:00 PM,3.2
+500,"Sastry, Borde and Dutta",Kolkata,10:00 AM - 11:00 PM,2.7
